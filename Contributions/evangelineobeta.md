@@ -1,1 +1,4 @@
 - [worked on FAQs](https://www.figma.com/file/Uli9IZeFBp4ZlCe46ui6dI/Team-17_my_cms?node-id=2296%3A4524)
+- [worked on integration page](https://www.figma.com/file/Uli9IZeFBp4ZlCe46ui6dI/Team-17_my_cms?node-id=2177%3A5434)
+- [worked on error page](https://www.figma.com/file/Uli9IZeFBp4ZlCe46ui6dI/Team-17_my_cms?node-id=2343%3A9702)
+- [worked on about page](https://www.figma.com/file/Uli9IZeFBp4ZlCe46ui6dI/Team-17_my_cms?node-id=2152%3A6003)
